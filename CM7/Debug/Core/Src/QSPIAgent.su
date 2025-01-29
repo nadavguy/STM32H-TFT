@@ -1,0 +1,11 @@
+../Core/Src/QSPIAgent.c:15:26:W25N01_SendCommand	80	static
+../Core/Src/QSPIAgent.c:31:26:W25N01_SendCommandErase	88	static
+../Core/Src/QSPIAgent.c:48:19:W25N01_Init	24	static
+../Core/Src/QSPIAgent.c:61:10:W25N01_ReadID	80	static
+../Core/Src/QSPIAgent.c:82:19:W25N01_ReadPage	136	static
+../Core/Src/QSPIAgent.c:137:19:W25N01_WritePage	192	static
+../Core/Src/QSPIAgent.c:218:19:W25N01_EraseBlock	24	static
+../Core/Src/QSPIAgent.c:252:19:writeEnable	64	static
+../Core/Src/QSPIAgent.c:284:19:checkWriteEnableLatch	72	static
+../Core/Src/QSPIAgent.c:318:10:calculateRowAddress	24	static
+../Core/Src/QSPIAgent.c:325:6:fileSystemInit	24	static
